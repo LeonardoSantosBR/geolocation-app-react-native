@@ -63,4 +63,4 @@ yarn-error.log
 .metro-health-check*
 
 # api google maps
-/android/app/main/AndroidManifest.xml
+android/app/src/AndroidManifest.xml
